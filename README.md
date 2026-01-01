@@ -11,7 +11,14 @@
 </p>
 
 ---
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b59d90e-29e3-47e6-bfd9-90bf80e5ba82" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 ## 🚀 About Me
