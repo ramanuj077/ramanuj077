@@ -1,6 +1,6 @@
 <h1 align="center">A Ramanuj Patro</h1>
 <p align="center">
-  Aspiring Software Engineer · Backend & Full Stack Developer · Open Source Contributor
+  Aspiring Software Engineer · Backend & Full Stack Developer · Open Source Contributor · Building Web Development & AI/ML Skills · Creating Real-World Solution
 </p>
 
 <p align="center">
