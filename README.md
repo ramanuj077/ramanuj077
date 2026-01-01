@@ -155,6 +155,7 @@ Minimal portfolio showcasing projects, case studies, and learnings.
     src="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/snake.svg">
 </picture>
 
+
 ---
 
 ⭐ *Open to internships, meaningful collaborations, and learning opportunities.*
