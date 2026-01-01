@@ -22,7 +22,7 @@
 
 ---
 
-##🎮 GitHub Activity 2025
+## 🎮 GitHub Activity 2025
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/snake-dark.svg">
