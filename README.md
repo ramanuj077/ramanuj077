@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/Open%20to-Internships%20|%20Connections%20|%20Collaborations-0A66C2?style=for-the-badge">
 </p>
 
----
-
 ## 🎮 GitHub Activity 2025
 <picture>
   <source media="(prefers-color-scheme: dark)"
