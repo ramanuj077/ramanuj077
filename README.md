@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! 👋👋👋👋👋👋
 
 I'm A Ramanuj Patro, a passionate coder. I love building innovative projects and exploring new technologies. Let's connect and create something amazing together!
 
