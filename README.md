@@ -8,7 +8,7 @@ I'm a coder, with a keen interest in software development and technology. I enjo
 
 ## Skills & Technologies
 
-html,css,react,nodejs,docker,git,github,express,postgres,aws,flutter,androidstudio,mongodb,java,py,js,nextjs,angular,azure,supabase,postman,bash,c,figma,firebase,discord,netlify,vercel,redis,tailwind,twitter,vscode,opencv
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,docker,git,github,express,postgres,aws,flutter,androidstudio,mongodb,java,py,js,nextjs,angular,azure,supabase,postman,bash,c,figma,firebase,discord,netlify,vercel,redis,tailwind,twitter,vscode,opencv&perline=8)](https://skillicons.dev)
 
 ## Projects
 
