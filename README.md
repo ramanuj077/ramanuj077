@@ -137,17 +137,6 @@ Minimal portfolio showcasing projects, case studies, and learnings.
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/pacman-contribution-graph.svg">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/snake.svg">
