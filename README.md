@@ -1,53 +1,72 @@
-## Hi there 👋  
-I'm **A Ramanuj Patro**, a passionate developer who enjoys building real-world projects, contributing to open source, and exploring new technologies.
+<h1 align="center">Hi 👋, I'm A Ramanuj Patro</h1>
+<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Open Source Enthusiast</h3>
 
-I believe in *learning by building* and *growing in public* 🚀
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramanujpatro">
+    <img src="https://img.shields.io/badge/LinkedIn-ramanujpatro-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/ramanuj077">
+    <img src="https://img.shields.io/badge/GitHub-ramanuj077-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 - 🎓 Computer Science student  
-- 💡 Interested in Full Stack Development, AI-assisted tools & Open Source  
-- 🔧 Building projects like **Synapse** and **Quizito**  
-- 🌱 Currently learning DSA, system design basics, and scalable web apps  
+- 💡 Interested in **Full Stack Development**, **AI-assisted tools**, and **Open Source**
+- 🛠️ I enjoy building projects that solve real problems
+- 🌱 Currently strengthening **DSA**, **backend fundamentals**, and **system design basics**
+
+> I believe in *learning by building* and *growing in public*.
 
 ---
 
-## 🛠️ Skills & Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,docker,git,github,express,postgres,aws,flutter,androidstudio,mongodb,java,py,js,nextjs,angular,azure,supabase,postman,bash,c,figma,firebase,netlify,vercel,redis,tailwind,vscode,opencv&perline=8)](https://skillicons.dev)
+## 🔭 What I’m Building Now
+- 🧠 **Synapse** — AI-assisted code refactoring tool for cleaner, maintainable code  
+- 🎯 **Quizito** — real-time AI-powered quiz platform designed for scalability  
+- 🌍 **Open Source (Oppia)** — contributing via issue labeling and repository maintenance  
+- 📚 Improving problem-solving skills with DSA alongside real projects
 
 ---
 
-## 🚀 Projects
-
-[![Synapse](https://github-readme-stats.vercel.app/api/pin/?username=ramanuj077&repo=Synapse)](https://github.com/ramanuj077/Synapse)
-
-[![Quizito](https://github-readme-stats.vercel.app/api/pin/?username=ramanuj077&repo=Quizito)](https://github.com/ramanuj077/Quizito)
-
-[![GermanProject-Deutsche-Feste](https://github-readme-stats.vercel.app/api/pin/?username=ramanuj077&repo=GermanProject-Deutsche-Feste)](https://github.com/ramanuj077/GermanProject-Deutsche-Feste)
-
-[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=ramanuj077&repo=Calculator)](https://github.com/ramanuj077/Calculator)
-
-[![WeatherApp](https://github-readme-stats.vercel.app.app/api/pin/?username=ramanuj077&repo=WeatherApp)](https://github.com/ramanuj077/WeatherApp)
-
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,py,c,mongodb,postgres,redis,docker,git,github,aws,azure,firebase,tailwind,figma,vscode&perline=8" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Ramanuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramanuj077&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanuj077&layout=compact)
+## 🌟 Featured Projects
 
-- 🗂️ **Public Repositories:** 17  
-- 🔁 Actively building and learning  
-- 🌍 Open-source contributor  
+### 🔹 Synapse — AI Refactoring Assistant
+AI-powered tool that helps developers refactor code intelligently,  
+with a deterministic fallback for reliability.
+
+🔗 https://github.com/ramanuj077/Synapse
 
 ---
 
-## 🔥 Recent Activity
-- Pushed code to `ramanuj077/ramanuj077`
-- Created new branches and maintained repositories
-- Contributed to issue labeling in **Oppia**
-- Pushed changes to **Envision**
+### 🔹 Quizito — AI Quiz Platform
+A scalable, real-time quiz system built during hackathons,  
+focused on AI-generated content and smooth user experience.
+
+🔗 https://github.com/ramanuj077/Quizito
+
+---
+
+### 🔹 Other Projects
+- **WeatherApp** — API-based weather application  
+- **GermanProject – Deutsche Feste** — frontend cultural project  
+- **Calculator** — simple JavaScript utility app  
+
+---
+
+## 🧠 How I Think as a Developer
+- I value **clarity and simplicity** over over-engineering  
+- I enjoy **refactoring and improving existing systems**  
+- I focus on **scalability and user experience**  
+- I learn best by **building → breaking → fixing**
 
 ---
 
@@ -58,95 +77,38 @@ I believe in *learning by building* and *growing in public* 🚀
 
 ---
 
-## 🎤 Talks & Presentations
+## 🎤 Talks & Demos
 - **Synapse – AI Refactoring Assistant**  
-  Hackathon demo explaining architecture, AI workflow, and scalability.
+  Hackathon demo explaining architecture, AI workflow, and scalability
 
 - **Quizito – AI Quiz Platform**  
-  Live demo covering system design, AI integration, and real-time quiz flow.
+  Live demo covering system design, AI integration, and real-time flow
 
 ---
 
 ## 🏅 Certifications
 - 🕒 Oracle Cloud Infrastructure AI Foundations *(in progress)*  
-- 🕒 Data Structures & Algorithms in Java *(Apna College – ongoing)*  
+- 🕒 Data Structures & Algorithms in Java *(self-paced)*  
 - 🕒 Full Stack Web Development *(self-paced)*  
 
 ---
 
 ## 📄 Publications
-- 🚧 No formal publications yet  
-- Currently working on:
-  - AI-assisted code refactoring write-ups  
-  - **Quizito** architecture case study  
-  - Open-source contribution learnings (Oppia)  
+🚧 No formal publications yet  
 
-*Planned for Medium / Dev.to / GitHub Articles.*
+Currently working on:
+- AI-assisted code refactoring write-ups  
+- **Quizito , Synapse** architecture case study  
+- Open-source contribution learnings (Oppia,PublicLAB)
+
+_Planned for Medium / Dev.to / GitHub Articles._
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let’s Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/ramanujpatro  
 - 🧑‍💻 GitHub: https://github.com/ramanuj077  
 
 ---
 
-⭐ *Always open to learning, collaborating, and building meaningful software.*
-
-
-
-
-
-
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ramanuj077&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ramanuj077&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+⭐ *Open to internships, collaborations, and learning opportunities.*
