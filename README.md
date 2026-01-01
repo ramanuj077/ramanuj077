@@ -1,41 +1,42 @@
-<h1 align="center">Hi 👋, I'm A Ramanuj Patro</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Open Source Enthusiast</h3>
+<h1 align="center">A Ramanuj Patro</h1>
+<p align="center">
+  Aspiring Software Engineer · Backend & Full Stack Developer · Open Source Contributor
+</p>
+
+<p align="center">
+  <i>I build systems, improve codebases, and learn how software scales.</i>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ramanujpatro">
-    <img src="https://img.shields.io/badge/LinkedIn-ramanujpatro-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-ramanujpatro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/ramanuj077">
-    <img src="https://img.shields.io/badge/GitHub-ramanuj077-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-ramanuj077-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20|%20Connections%20|%20Collaborations-0A66C2?style=for-the-badge">
+</p>
 
 ---
+
 ## 🚀 About Me
 - 🎓 Computer Science student  
-- 💡 Interested in **Full Stack Development**, **AI-assisted tools**, and **Open Source**
-- 🛠️ I enjoy building projects that solve real problems
+- 💡 Focused on **Backend Development**, **AI-assisted systems**, and **Open Source**
+- 🛠️ I enjoy designing systems that solve real-world problems
 - 🌱 Currently strengthening **DSA**, **backend fundamentals**, and **system design basics**
 
-> I believe in *learning by building* and *growing in public*.
+> I believe in *learning by building* and *understanding systems from the inside*.
 
 ---
 
 ## 🔭 What I’m Building Now
-- 🧠 **Synapse** — AI-assisted code refactoring tool for cleaner, maintainable code  
-- 🎯 **Quizito** — real-time AI-powered quiz platform designed for scalability  
-- 🌍 **Open Source (Oppia)** — contributing via issue labeling and repository maintenance  
-- 📚 Improving problem-solving skills with DSA alongside real projects
+- 🧠 **Synapse** — AI-assisted code refactoring system focused on maintainability and code quality  
+- 🎯 **Quizito** — scalable, real-time backend for AI-generated quizzes  
+- 🌍 **Open Source (Oppia, PublicLab)** — issue labeling, repository maintenance, beginner-friendly improvements  
+- 📚 Deepening **problem-solving and backend architecture skills**
 
 ---
 
@@ -49,7 +50,7 @@
 ## 🌟 Featured Projects
 
 ### 🔹 Synapse — AI Refactoring Assistant
-AI-powered tool that helps developers refactor code intelligently,  
+AI-assisted developer tool that suggests cleaner, more maintainable code  
 with a deterministic fallback for reliability.
 
 🔗 https://github.com/ramanuj077/Synapse
@@ -57,8 +58,8 @@ with a deterministic fallback for reliability.
 ---
 
 ### 🔹 Quizito — AI Quiz Platform
-A scalable, real-time quiz system built during hackathons,  
-focused on AI-generated content and smooth user experience.
+A scalable, real-time quiz platform built during hackathons,  
+focused on AI-generated content, backend scalability, and smooth UX.
 
 🔗 https://github.com/ramanuj077/Quizito
 
@@ -67,22 +68,22 @@ focused on AI-generated content and smooth user experience.
 ### 🔹 Other Projects
 - **WeatherApp** — API-based weather application  
 - **GermanProject – Deutsche Feste** — frontend cultural project  
-- **Calculator** — simple JavaScript utility app  
+- **Calculator** — JavaScript utility application  
 
 ---
 
 ## 🧠 How I Think as a Developer
-- I value **clarity and simplicity** over over-engineering  
+- I prioritize **clarity and simplicity** over over-engineering  
 - I enjoy **refactoring and improving existing systems**  
-- I focus on **scalability and user experience**  
+- I design with **scalability and user experience** in mind  
 - I learn best by **building → breaking → fixing**
 
 ---
 
 ## 🌍 Open Source
-- Contributor to **Oppia**
-- Worked on issue labeling and repository maintenance
-- Exploring beginner-friendly issues and documentation improvements
+- Contributor to **Oppia** and **PublicLab**
+- Experience with issue labeling, repository maintenance, and onboarding improvements
+- Actively exploring beginner-friendly issues and documentation tasks
 
 ---
 
@@ -91,7 +92,7 @@ focused on AI-generated content and smooth user experience.
   Hackathon demo explaining architecture, AI workflow, and scalability
 
 - **Quizito – AI Quiz Platform**  
-  Live demo covering system design, AI integration, and real-time flow
+  Live demo covering backend design, AI integration, and real-time interaction
 
 ---
 
@@ -106,11 +107,11 @@ focused on AI-generated content and smooth user experience.
 🚧 No formal publications yet  
 
 Currently working on:
-- AI-assisted code refactoring write-ups  
-- **Quizito , Synapse** architecture case study  
-- Open-source contribution learnings (Oppia,PublicLAB)
+- AI-assisted code refactoring technical write-ups  
+- **Quizito & Synapse** architecture case studies  
+- Open-source contribution learnings (Oppia, PublicLab)
 
-_Planned for Medium / Dev.to / GitHub Articles._
+*Planned for Medium / Dev.to / GitHub Articles.*
 
 ---
 
@@ -118,6 +119,42 @@ _Planned for Medium / Dev.to / GitHub Articles._
 - 💼 LinkedIn: https://www.linkedin.com/in/ramanujpatro  
 - 🧑‍💻 GitHub: https://github.com/ramanuj077  
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramanujpatro">
+    <img src="https://img.shields.io/badge/Hire%20Me-Open%20to%20Internships-black?style=for-the-badge">
+  </a>
+</p>
+
 ---
 
-⭐ *Open to internships, collaborations, and learning opportunities.*
+🌐 **Portfolio Website**  
+Minimal portfolio showcasing projects, case studies, and learnings.  
+*(Coming soon)*
+
+---
+
+## 🎮 GitHub Activity (Just for Fun)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/pacman-contribution-graph.svg">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/snake.svg">
+  <img alt="Snake contribution graph"
+    src="https://raw.githubusercontent.com/ramanuj077/ramanuj077/output/snake.svg">
+</picture>
+
+---
+
+⭐ *Open to internships, meaningful collaborations, and learning opportunities.*
