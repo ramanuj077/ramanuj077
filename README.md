@@ -1,6 +1,6 @@
 <h1 align="center">A Ramanuj Patro</h1>
 <p align="center">
-  Aspiring Software Engineer · Backend & Full Stack Developer · Open Source Contributor · Building AI/ML Skills · Creating Real-World Solution
+  Aspiring Software Engineer · Full Stack Developer · Open Source Contributor · Building AI/ML Skills · Creating Real-World Solution
 </p>
 
 <p align="center">
@@ -34,9 +34,9 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science student  
-- 💡 Focused on **Backend Development**, **AI-assisted systems**, and **Open Source**
+- 💡 Focused on **Web Development**, **AI-assisted systems**, and **Open Source**
 - 🛠️ I enjoy designing systems that solve real-world problems
-- 🌱 Currently strengthening **DSA**, **backend fundamentals**, and **system design basics**
+- 🌱 Currently strengthening **DSA** and **system design basics**
 
 > I believe in *learning by building* and *understanding systems from the inside*.
 
@@ -46,7 +46,7 @@
 - 🧠 **Synapse** — AI-assisted code refactoring system focused on maintainability and code quality  
 - 🎯 **Quizito** — scalable, real-time backend for AI-generated quizzes  
 - 🌍 **Open Source (Oppia, PublicLab)** — issue labeling, repository maintenance, beginner-friendly improvements  
-- 📚 Deepening **problem-solving and backend architecture skills**
+- 📚 Deepening **problem-solving and architecture skills**
 
 ---
 
